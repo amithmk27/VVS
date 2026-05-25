@@ -1,0 +1,6 @@
+{
+  "name": "VVS Brahmin Matrimony",
+  "description": "Premium matrimony app designed for the VVS Brahmin community featuring profiles, messaging, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
